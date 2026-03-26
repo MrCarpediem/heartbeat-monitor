@@ -3,4 +3,3 @@ uvicorn
 python-dotenv
 requests
 schedule
-python-dotenv
