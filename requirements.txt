@@ -3,3 +3,6 @@ uvicorn
 python-dotenv
 requests
 schedule
+slack-sdk
+notion-client
+imapclient
